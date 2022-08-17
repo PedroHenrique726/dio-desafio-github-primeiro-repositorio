@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 simulando conflito
+Arquivo atualizado pelo git para ser atualizado localmente
+
