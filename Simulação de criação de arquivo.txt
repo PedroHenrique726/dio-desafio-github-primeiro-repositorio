@@ -1,1 +1,1 @@
-arquivo atualizado
+Arquivo atualizado pelo git para ser atualizado localmente
